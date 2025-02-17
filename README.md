@@ -31,7 +31,7 @@ Foxglove Studioのパネル追加メニューから「Emergency Stop」を選択
 
 # 開発者向け
 ```bash
-git clone [repository-url]
+git clone git@github.com:Nexis-R/foxglove-emergency-stop-extension.git
 cd foxglove-emergency-stop-extension
 # 依存関係のインストール
 npm install
